@@ -17,9 +17,9 @@ function App() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Helmet>
-        <title>Aditya Kumar Srivastava - Software Engineer</title>
-        <meta name="description" content="Welcome to Aditya Kumar Srivastava's portfolio website. I'm Aditya Kumar Srivastava, a passionate software developer showcasing my projects, skills, and experience." />
-        <meta name="keywords" content="Adityasri, AdityaSri, adityasri.in, Aditya Kumar Srivastava,adityasri portfolio, Software Engineer" />
+        <title>Karbal Hamza - Software Engineer</title>
+        <meta name="description" content="Welcome to Karbal Hamza's portfolio website. I'm Karbal Hamza, a passionate software developer showcasing my projects, skills, and experience." />
+        <meta name="keywords" content="Karbal, Hamza, karbalHamza, Karbal Hamza, Karbal portfolio, Software Engineer" />
         <meta name="author" content="Aditya Kumar Srivastava" />
         <meta property="og:title" content="Aditya Kumar Srivastava - Portfolio" />
         <meta property="og:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />

@@ -1,8 +1,8 @@
   import adityaPic from "../Assets/aditya-kumar-pic.jpeg";
 
   export const profile = {
-    name: "Aditya Kumar Srivastava",
-    titles: ["Software Engineer", "Full Stack Developer", "AI Engineer"],
+    name: "Karbal Hamza",
+    titles: ["Software Engineer", "Full Stack Developer"],
     bio: [
       "I build scalable, high-performance applications using TypeScript, JavaScript, React, Node.js, AWS, and LLM orchestration.",
       "From crafting intuitive frontends to designing robust APIs, cloud architecture, and intelligent AI workflows, I deliver quality code that drives real impact.",
@@ -10,9 +10,9 @@
     ],
     image: adityaPic,
     social: {
-      email: "adityasrivastava.niet@gmail.com",
-      linkedin: "https://www.linkedin.com/in/adityakumar29",
-      github: "https://github.com/adityaSrivastava29",
-      x: "https://x.com/adityasri_in",
+      email: "mr.karbalhamza@gmail.com",
+      linkedin: "https://www.linkedin.com/karbalhamza/",
+      github: "https://github.com/KarbalHamza/",
+      x: "https://x.com/hamzakarbal4?s=21&t=Hpqt5iTJYJ_nFA2qlMnYYA",
     },
   };
