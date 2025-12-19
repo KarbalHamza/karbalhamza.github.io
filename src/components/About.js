@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import { BsTwitterX } from "react-icons/bs";
 
 import { ReactTyped } from 'react-typed';
-import adityaPic from '../Assets/aditya-kumar-pic.jpeg';
+import adityaPic from '../Assets/HamzaImg.jpeg';
 import { profile } from '../data/profile';
 import { motion } from 'framer-motion';
 // Tailwind migration: inline classes
