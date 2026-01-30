@@ -1,15 +1,12 @@
 export const education = [
   {
-    degree: 'Bachelor of Technology in Computer Science and Engineering',
-    institution: 'Noida Institute of Engineering and Technology, Greater Noida',
-    period: 'August 2018 - August 2022',
-    extra: 'CGPA: 8.4 (Passed with distinction)',
+    degree: "Master's in Digital Information Engineering",
+    institution: 'University of Toulouse II – Jean Jaurès',
+    period: '2023 - 2025',
   },
   {
-    degree: 'Intermediate',
-    institution: 'Harihar Singh Academy, Varanasi',
-    period: 'April 2016 - June 2017',
+    degree: "Master's in Communication and IT Service Management",
+    institution: 'University Hassan II – Casablanca',
+    period: '2021 - 2023',
   },
 ];
-
-

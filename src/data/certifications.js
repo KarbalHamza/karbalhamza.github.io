@@ -1,23 +1,14 @@
-import awsCCP from '../Assets/aws-ccp.png';
-import awsCDP from '../Assets/aws-cda.png';
+import SqlAss from '../Assets/sql-associate.png';
 import githubFoundations from '../Assets/github-foundations.png';
 
 export const certifications = [
   {
-    icon: 'aws',
-    name: 'AWS Certified Developer - Associate',
-    issuer: 'Amazon Web Services',
-    period: 'September 2024 - September 2027',
-    link: 'https://www.credly.com/badges/7db7a116-798b-4143-b5d3-4bc650ccc019/linked_in_profile',
-    image: awsCDP,
-  },
-  {
-    icon: 'aws',
-    name: 'AWS Certified Cloud Practitioner',
-    issuer: 'Amazon Web Services',
-    period: 'May 2023 - September 2027',
-    link: 'https://www.credly.com/badges/ec72467a-91a3-4a89-9551-e2ad94ed9327/linked_in_profile',
-    image: awsCCP,
+    icon: 'sql',
+    name: 'SQL Associate',
+    issuer: 'Data Camp',
+    period: 'Nov 2025 - November 2027',
+    link: 'https://www.datacamp.com/certificate/SQA0019234465587',
+    image: SqlAss,
   },
   {
     icon: 'github',
@@ -28,5 +19,3 @@ export const certifications = [
     image: githubFoundations,
   },
 ];
-
-
