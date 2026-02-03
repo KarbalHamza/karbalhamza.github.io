@@ -25,7 +25,7 @@ const Certifications = () => {
           <p className="mt-2 text-muted-foreground">Recognized achievements in the field of technology.</p>
         </div>
 
-        <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3 justify-center">
+        <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-2 justify-center">
           {certifications.map((cert) => {
             const Icon = cert.icon === 'github' ? FaGithub
                        : cert.icon === 'sql' ? SiMysql

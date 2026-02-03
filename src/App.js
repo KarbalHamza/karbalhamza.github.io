@@ -20,29 +20,29 @@ function App() {
         <title>Karbal Hamza - Software Engineer</title>
         <meta name="description" content="Welcome to Karbal Hamza's portfolio website. I'm Karbal Hamza, a passionate software developer showcasing my projects, skills, and experience." />
         <meta name="keywords" content="Karbal, Hamza, karbalHamza, Karbal Hamza, Karbal portfolio, Software Engineer" />
-        <meta name="author" content="Aditya Kumar Srivastava" />
-        <meta property="og:title" content="Aditya Kumar Srivastava - Portfolio" />
+        <meta name="author" content="Karbal Hamza" />
+        <meta property="og:title" content="Karbal Hamza - Portfolio" />
         <meta property="og:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://adityasri.in" />
+        <meta property="og:url" content="https://karbalhamza.github.io/" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Aditya Kumar Srivastava - Portfolio" />
+        <meta name="twitter:title" content="Karbal Hamza - Portfolio" />
         <meta name="twitter:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
-        <link rel="canonical" href="https://adityasri.in" />
+        <link rel="canonical" href="https://karbalhamza.github.io/" />
         {/* SEO: Structured Data for Google */}
         <script type="application/ld+json">{`
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Aditya Kumar Srivastava",
-            "url": "https://adityasri.in",
+            "name": "Karbal Hamza",
+            "url": "https://karbalhamza.github.io/",
             "sameAs": [
-              "https://github.com/adityasrivastava29",
-              "https://www.linkedin.com/in/adityakumar29/",
-              "https://x.com/adityasri_in"
+              "https://github.com/KarbalHamza/",
+              "https://www.linkedin.com/in/karbalhamza/",
+              "https://x.com/HamzaKarbal4"
             ],
             "jobTitle": "Software Engineer",
-            "description": "Portfolio website of Aditya Kumar Srivastava, Software Engineer. Projects, skills, experience, and contact information."
+            "description": "Portfolio website of Karbal Hamza, Software Engineer. Projects, skills, experience, and contact information."
           }
         `}</script>
         {/* SEO: Robots meta tag */}

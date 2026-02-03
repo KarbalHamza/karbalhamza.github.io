@@ -1,50 +1,36 @@
 export const projects = [
   {
-    title: 'AI-Powered Chatbot',
-    period: 'April 2025 - May 2025',
+    title: 'SPS - Inventory Management System',
+    period: '2024',
     bullets: [
-      'Constructed an AI chatbot using MERN stack and Gemini API for dynamic conversation flow.',
-      'Responsive UI in React with real-time Socket.io communication.',
-      'Backend with Node.js, Express, and MongoDB for scalable session tracking.',
-      'Gemini API for natural interactions with contextual memory.',
+      'Development of a modern web and mobile application for real-time inventory tracking.',
+      'Insight dashboard providing a clear and comprehensive overview of stock levels.',
+      'Customer and supplier management to improve collaboration and supply optimization.',
+      'Multi-user access with role-based permissions for enhanced security.',
+      'Order management with delivery truck assignment and POS (delivery note) printing.',
+      'Return management for defective or excess products.',
+      'Real-time notifications for efficient user communication.',
     ],
     links: {
-      code: 'https://github.com/adityaSrivastava29/AI-Powered-Chatbot',
-      demo: null,
+      code: '',
+      demo: 'https://drive.google.com/file/d/1TdRpafukR-HTxeklk5NMewEQu1m08uWy/view?usp=sharing',
     },
-    tags: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Gemini API'],
+    tags: ['Angular', 'Java', 'Spring Boot', 'REST API', 'HTML5', 'CSS3'],
   },
   {
-    title: 'Movie Mahal',
-    period: 'January 2023 - June 2023',
+    title: 'Métis – Digital Archive Management System',
+    period: '2023',
     bullets: [
-      'Movie discovery platform using React, Redux, and TMDB API.',
-      'Responsive design with Grid/Flexbox.',
-      'Authentication and watchlists via Firebase.',
-      'Lazy loading and code splitting optimizations.',
-      'Admin panel for management.',
+      'Designed and developed a web system for digitizing and accessing Belgian historical archives.',
+      'Defined the technical architecture and designed the relational database.',
+      'Developed intuitive user interfaces for archive search and consultation.',
+      'Participated in the full development lifecycle: requirements analysis, front-end and back-end development, and production deployment.',
+      'Collaborated using Git and Docker in a professional development environment.',
     ],
     links: {
-      code: 'https://adityasrivastava29.github.io/',
-      demo: 'https://adityasrivastava29.github.io/',
+      code: '',
+      demo: 'https://drive.google.com/file/d/1tnr94EWigQ2E1Pe2Pnw3E6E5AFNVlULK/view?usp=drive_link',
     },
-    tags: ['React', 'Redux', 'Firebase', 'TMDB'],
-  },
-  {
-    title: 'Task Management System',
-    period: 'May 2025 - Present',
-    bullets: [
-      'React, TypeScript, Express.js; improved collaboration by 30%.',
-      'Real-time updates with WebSocket.',
-      'PostgreSQL for efficient data at scale.',
-      'Deployed on AWS with CI/CD.',
-    ],
-    links: {
-      code: 'https://adityasrivastava29.github.io/',
-      demo: 'https://adityasrivastava29.github.io/',
-    },
-    tags: ['React', 'TypeScript', 'Express', 'PostgreSQL', 'WebSocket'],
+    tags: ['PHP', 'JavaScript', 'MySQL', 'HTML5', 'CSS3', 'Docker', 'Git', 'Postman'],
   },
 ];
-
-

@@ -51,7 +51,7 @@ const Projects = () => {
           </h2>
         </motion.div>
 
-        <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">
+        <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-2">
           {projects.map((proj, idx) => (
             <motion.div
               key={idx}
@@ -211,7 +211,7 @@ const Projects = () => {
                   </div>
                 )}
                 
-                <div className="flex gap-3 mt-4">
+                <div className="flex gap-3 mt-4 justify-center">
                   {proj.links.code && (
                     <motion.a 
                       href={proj.links.code} 
@@ -233,7 +233,7 @@ const Projects = () => {
                       whileHover={{ scale: 1.05 }}
                       whileTap={{ scale: 0.95 }}
                     >
-                      <FaExternalLinkAlt /> Live Demo
+                      <FaExternalLinkAlt /> Discover
                     </motion.a>
                   )}
                 </div>
