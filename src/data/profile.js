@@ -11,7 +11,7 @@
     image: adityaPic,
     social: {
       email: "mr.karbalhamza@gmail.com",
-      linkedin: "https://www.linkedin.com/karbalhamza/",
+      linkedin: "https://www.linkedin.com/in/karbalhamza/",
       github: "https://github.com/KarbalHamza/",
       x: "https://x.com/HamzaKarbal4",
     },
