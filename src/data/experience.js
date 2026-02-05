@@ -3,7 +3,7 @@ export const experience = [
     title: "Software Development Engineer",
     company: "BASSETTI Group",
     location: "Toulouse, France",
-    period: "October 2024 - March 2025",
+    period: "October 2024 - October 2025",
     bullets: [
       "Developed and implemented specific features and customized modules according to business needs.",
       "Performed corrective and evolutionary maintenance of applications deployed at client sites.",
