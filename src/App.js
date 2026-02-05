@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Helmet>
-        <title>Karbal Hamza - Software Engineer</title>
+        <title>Karbal Hamza - Software developer</title>
         <meta name="description" content="Welcome to Karbal Hamza's portfolio website. I'm Karbal Hamza, a passionate software developer showcasing my projects, skills, and experience." />
         <meta name="keywords" content="Karbal, Hamza, karbalHamza, Karbal Hamza, Karbal portfolio, Software Engineer" />
         <meta name="author" content="Karbal Hamza" />
